@@ -1,70 +1,300 @@
 ,ID,Begin Date,End Date,Description,Area_m2
 0,131199050,2007-01-25,2010-05-09,"Latitude  43°58'38.6"",  Longitude  74°16'13.5""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020001; Drainage area: 25.2 square miles",65268000.0
-1,1312000,1925-10-01,2023-03-26,"Latitude  43°57'57.7"",  Longitude  74°07'53.0""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: 192 square miles",497280000.0
-2,1315000,1912-07-01,2023-03-26,"Latitude  43°45'23.4"",  Longitude  74°16'01.4""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020001; Drainage area: 132 square miles",341880000.0
-3,1315170,2016-09-30,2022-12-30,"Latitude  43°56'23.4"",  Longitude  73°57'13.0""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: 6.86 square miles",17767400.0
-4,1315226,2016-09-30,2023-03-21,"Latitude  43°56'54.6"",  Longitude  73°59'18.1""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: .09 square miles",-999.0
-5,1315227,2016-09-30,2023-03-26,"Latitude  43°56'53.5"",  Longitude  73°59'24.4""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: 0.35 square miles",906500.0
-6,1315500,1907-09-21,2023-03-26,"Latitude  43°42'03"",  Longitude  73°59'00""  NAD83; Warren County, New York,  Hydrologic Unit 02020001; Drainage area: 792 square miles",2051280000.0
-7,1318500,1921-07-15,2023-03-26,"Latitude  43°19'08"",  Longitude  73°50'39""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020001; Drainage area: 1,664 square miles",4309760000.0
-8,1327500,1960-10-01,2023-03-26,"Latitude  43°18'15.3"",  Longitude  73°32'47.4""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Datum of gage:  138.56 feet above  NAVD88.",-999.0
-9,1327750,1899-01-01,2023-03-26,"Latitude  43°16'09.8"",  Longitude  73°35'45.0""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Drainage area: 2,810 square miles",7277900000.0
-10,1328770,2014-09-04,2022-10-06,"Latitude  43°07'31.4"",  Longitude  73°35'05.7""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Drainage area: 3,000 square miles",7770000000.0
-11,1329490,1922-10-01,2023-03-26,"Latitude  43°06'31.2"",  Longitude  73°25'20.7""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Drainage area: 396 square miles",1025640000.0
-12,1329500,1922-10-01,2003-09-29,"Latitude  43°06'01.9"",  Longitude  73°25'52.4""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Drainage area: 396 square miles",1025640000.0
-13,1330000,1948-04-04,2023-03-26,"Latitude  43°01'50.9"",  Longitude  73°55'39.3""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020003; Drainage area: 24.9 square miles",64491000.0
-14,1330500,1927-07-30,1995-03-31,"Latitude  43°02'18"",  Longitude  73°54'33""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020003; Drainage area: 84.2 square miles",218078000.0
-15,1334500,1910-08-13,2023-03-26,"Latitude  42°56'18.9"",  Longitude  73°22'37.0""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020003; Drainage area: 510 square miles",1320900000.0
-16,1335754,1887-10-01,2023-03-26,"Latitude  42°49'45"",  Longitude  73°39'58""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020003; Drainage area: 4,605 square miles",11926950000.0
-17,1335755,1946-02-21,2023-03-26,"Latitude  42°45'08"",  Longitude  73°41'20""  NAD83; Albany County, New York,  Hydrologic Unit 02020003; Drainage area: 8,090 square miles",20953100000.0
-18,1358000,2002-10-19,2009-03-30,"Latitude  42°40'17"",  Longitude  73°45'20""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 13.1 square miles",33929000.0
-19,1359133,2018-12-21,2023-03-26,"Latitude  42°39'48.4"",  Longitude  73°44'41.5""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 13.8 square miles",35742000.0
-20,1359135,1979-05-15,2023-03-26,"Latitude  42°38'01.1"",  Longitude  73°48'15.4""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 168 square miles",435120000.0
-21,1359528,1957-10-01,1995-03-31,"Latitude  42°32'02"",  Longitude  73°44'13""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020006; Drainage area: 31.6 square miles",81844000.0
-22,1359750,1990-10-01,2023-03-26,"Latitude  42°33'08.5"",  Longitude  73°35'26.1""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020006; Drainage area: 9.48 square miles",24553200.0
-23,1360640,1906-04-01,2023-03-26,"Latitude  42°19'51.8"",  Longitude  73°44'40.0""  NAD83; Columbia County, New York,  Hydrologic Unit 02020006; Drainage area: 329 square miles",852110000.0
-24,1361000,1960-03-31,1995-04-30,"Latitude  42°12'58.5"",  Longitude  73°43'49.0""  NAD83; Columbia County, New York,  Hydrologic Unit 02020006; Drainage area: 60.6 square miles",156954000.0
-25,1361200,2011-03-01,2015-03-30,"Latitude  42°13'23.7"",  Longitude  73°53'07.5""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 405 square miles",1048950000.0
-26,1362090,2001-10-01,2009-06-29,"Latitude  42°02'01"",  Longitude  74°25'14""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 1.54 square miles",3988600.0
-27,1362192,2016-10-12,2023-03-27,"Latitude  42°05'52.4"",  Longitude  74°26'56.7""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 29.6 square miles",76664000.0
-28,136219503,1998-09-30,2023-03-26,"Latitude  42°06'32"",  Longitude  74°27'07""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 12.5 square miles",32375000.0
-29,13621955,1963-10-01,2023-03-26,"Latitude  42°07'01"",  Longitude  74°22'49""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 63.7 square miles",164983000.0
-30,1362200,1996-12-18,2023-03-26,"Latitude  42°06'52"",  Longitude  74°21'51""  NAD27; Ulster County, New York,  Hydrologic Unit 02020006; Datum of gage:  964.39 feet above  NAVD88.",-999.0
-31,1362230,2021-10-23,2023-03-26,"Latitude  42°04'22.3"",  Longitude  74°20'08.6""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 3.53 square miles",9142700.0
-32,1362297,2003-08-01,2023-03-26,"Latitude  42°04'47.0"",  Longitude  74°20'04.5""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 20.6 square miles",53354000.0
-33,136230002,2016-11-14,2023-03-26,"Latitude  42°08'01.0"",  Longitude  74°13'53.5""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 1.81 square miles",4687900.0
-34,1362322,2016-11-15,2023-03-27,"Latitude  42°07'40.6"",  Longitude  74°15'47.7""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 9.25 square miles",23957500.0
-35,1362336,1997-10-01,2023-03-26,"Latitude  42°08'32"",  Longitude  74°15'54""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 1.95 square miles",5050500.0
-36,1362342,2012-05-29,2023-03-26,"Latitude  42°05'46.2"",  Longitude  74°17'25.5""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 8.71 square miles",22558900.000000004
-37,1362357,2016-12-15,2023-03-27,"Latitude  42°06'17.2"",  Longitude  74°18'34.4""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 3.83 square miles",9919700.0
-38,1362368,1997-02-01,2023-03-26,"Latitude  42°06'07.3"",  Longitude  74°18'39.2""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 30.9 square miles",80031000.0
-39,1362370,1997-02-01,2007-08-06,"Latitude  42°05'53"",  Longitude  74°19'03""  NAD27; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 31.5 square miles",81585000.0
-40,1362380,2000-07-27,2010-09-29,"Latitude  42°04'59"",  Longitude  74°10'59""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 1.02 square miles",2641800.0
-41,1362465,2010-09-30,2023-03-26,"Latitude  42°02'48"",  Longitude  74°16'38""  NAD27; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 25.0 square miles",64750000.0
-42,1362487,1997-10-01,2023-03-26,"Latitude  42°01'10"",  Longitude  74°15'59""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 16.5 square miles",42735000.0
-43,1362497,1931-10-01,2023-03-26,"Latitude  42°00'52.1"",  Longitude  74°16'12.7""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 192 square miles",497280000.0
-44,1362500,2000-08-11,2023-03-26,"Latitude  41°57'56"",  Longitude  74°17'35""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 17.0 square miles",44030000.0
-45,1363382,2013-11-08,2023-03-26,"Latitude  41°52'45.6"",  Longitude  74°08'43.3""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 279 square miles",722610000.0
-46,1363556,1907-04-04,2023-03-26,"Latitude  42°02'16"",  Longitude  73°58'19""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 419 square miles",1085210000.0
-47,1364500,1993-03-26,1995-09-30,"Latitude  41°42'36"",  Longitude  73°55'34""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 18.8 square miles",48692000.0
-48,1372051,1928-08-07,2023-03-26,"Latitude  41°39'11"",  Longitude  73°52'21""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 181 square miles",468790000.0
-49,1372500,1995-10-01,2023-03-26,"Latitude  41°26'50.1"",  Longitude  73°33'21.9""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 62.1 square miles",160839000.0
-50,137449480,1994-03-31,2023-03-26,"Latitude  41°23'40.5"",  Longitude  73°36'26.9""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 81.2 square miles",210308000.0
-51,1374505,1994-06-01,2023-03-26,"Latitude  41°22'24.2"",  Longitude  73°38'22.5""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 86.4 square miles",223776000.0
-52,1374531,1995-10-01,2023-03-26,"Latitude  41°28'13.7"",  Longitude  73°45'34.5""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 11.0 square miles",28490000.0
-53,1374559,2001-10-31,2023-03-26,"Latitude  41°26'59.8"",  Longitude  73°44'10.0""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 22.4 square miles",58016000.0
-54,1374581,1996-08-16,2023-03-26,"Latitude  41°28'33.1"",  Longitude  73°41'22.1""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 3.94 square miles",10204600.0
-55,1374598,1994-03-29,2023-03-26,"Latitude  41°24'42.5"",  Longitude  73°41'37.5""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 42.9 square miles",111111000.0
-56,137462010,1995-12-09,2013-03-31,"Latitude  41°25'55.9"",  Longitude  73°39'06.4""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 13.7 square miles",35483000.0
-57,1374654,1994-01-25,2023-03-26,"Latitude  41°21'28.8"",  Longitude  73°40'04.7""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 80.4 square miles",208236000.0
-58,1374701,2006-12-08,2023-03-26,"Latitude  41°19'38.5"",  Longitude  73°35'29.3""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 12.9 square miles",33411000.0
-59,1374781,1994-03-23,2023-03-26,"Latitude  41°19'37.6"",  Longitude  73°39'20.3""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 23.8 square miles",61642000.0
-60,1374821,1995-12-08,2023-03-26,"Latitude  41°15'36.8"",  Longitude  73°36'06.7""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 17.1 square miles",44289000.0
-61,1374890,1994-03-17,2023-03-26,"Latitude  41°15'58"",  Longitude  73°39'56""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 29.9 square miles",77441000.0
-62,1374901,1999-06-10,2009-06-29,"Latitude  41°14'58"",  Longitude  73°40'13""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 18.7 square miles",48433000.0
-63,1374918,1995-10-01,2023-03-26,"Latitude  41°20'17.3"",  Longitude  73°46'07.3""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 13.5 square miles",34965000.0
-64,1374930,1994-03-23,2023-03-26,"Latitude  41°17'15.4"",  Longitude  73°45'13.1""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 19.7 square miles",51023000.0
-65,1374941,1995-12-08,2005-09-29,"Latitude  41°16'57.1"",  Longitude  73°43'31.6""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 3.01 square miles",7795899.999999999
-66,1374976,1995-10-21,2009-06-29,"Latitude  41°13'43.5"",  Longitude  73°44'37.0""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 17.6 square miles",45584000.0
-67,1374987,1999-06-11,2009-06-29,"Latitude  41°15'43"",  Longitude  73°50'34""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 7.42 square miles",19217800.0
-68,137499350,1933-07-29,2023-03-26,"Latitude  41°13'30.1"",  Longitude  73°51'32.0""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 378 square miles",979020000.0
+1,1311992,1990-12-01,1992-04-30,"Latitude  43°58'56"",  Longitude  74°14'08""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: 1.35 square miles",3496500.0
+2,1312000,1925-10-01,2023-03-28,"Latitude  43°57'57.7"",  Longitude  74°07'53.0""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: 192 square miles",497280000.0
+3,1313500,1930-10-01,1961-09-29,"Latitude  43°51'23.7"",  Longitude  74°14'20.6""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020001; Drainage area: 160 square miles",414400000.0
+4,1314000,1916-10-01,1968-09-29,"Latitude  43°50'02.0"",  Longitude  74°11'40.8""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: 419 square miles",1085210000.0
+5,1315000,1912-07-01,2023-03-28,"Latitude  43°45'23.4"",  Longitude  74°16'01.4""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020001; Drainage area: 132 square miles",341880000.0
+6,1315081,2004-11-05,2006-09-29,"Latitude  43°47'55.4"",  Longitude  74°13'46.3""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020001; Drainage area: 195 square miles",505050000.0
+7,1315170,2016-09-30,2022-12-30,"Latitude  43°56'23.4"",  Longitude  73°57'13.0""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: 6.86 square miles",17767400.0
+8,1315226,2016-09-30,2023-03-21,"Latitude  43°56'54.6"",  Longitude  73°59'18.1""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: .09 square miles",-999.0
+9,1315227,2016-09-30,2023-03-28,"Latitude  43°56'53.5"",  Longitude  73°59'24.4""  NAD83; Essex County, New York,  Hydrologic Unit 02020001; Drainage area: 0.35 square miles",906500.0
+10,1315500,1907-09-21,2023-03-28,"Latitude  43°42'03"",  Longitude  73°59'00""  NAD83; Warren County, New York,  Hydrologic Unit 02020001; Drainage area: 792 square miles",2051280000.0
+11,1316000,1924-10-01,1932-09-29,"Latitude  43°41'52"",  Longitude  73°59'02""  NAD83; Warren County, New York,  Hydrologic Unit 02020001; Drainage area: 21.9 square miles",56721000.0
+12,1317000,1925-10-01,1970-09-30,"Latitude  43°36'34.3"",  Longitude  73°44'15.0""  NAD83; Warren County, New York,  Hydrologic Unit 02020001; Drainage area: 527 square miles",1364930000.0
+13,1318000,1908-10-01,1920-09-29,"Latitude  43°28'47"",  Longitude  73°49'06""  NAD83; Warren County, New York,  Hydrologic Unit 02020001; Drainage area: 1,533 square miles",3970470000.0
+14,1318500,1921-07-15,2023-03-28,"Latitude  43°19'08"",  Longitude  73°50'39""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020001; Drainage area: 1,664 square miles",4309760000.0
+15,1319000,1933-10-01,1978-05-31,"Latitude  43°28'25"",  Longitude  74°13'23""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020002; Drainage area: 114 square miles",295260000.0
+16,1319500,1907-10-01,1911-09-29,"Latitude  43°23'20"",  Longitude  74°17'18""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020002; Drainage area: 260 square miles",673400000.0
+17,1320500,1912-01-01,1916-09-29,"Latitude  43°22'11"",  Longitude  74°19'26""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020002; Drainage area: 210 square miles",543900000.0
+18,1321000,1911-09-15,2023-03-28,"Latitude  43°21'10"",  Longitude  74°16'13""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020002; Drainage area: 491 square miles",1271690000.0
+19,1321500,1933-10-01,1937-09-29,"Latitude  43°15'10"",  Longitude  74°13'28""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020002; Drainage area: 88.0 square miles",227920000.0
+20,1322000,1933-10-01,1937-09-29,"Latitude  43°17'50"",  Longitude  74°11'38""  NAD83; Hamilton County, New York,  Hydrologic Unit 02020002; Drainage area: 88.7 square miles",229733000.0
+21,1322500,1907-10-01,1910-09-29,"Latitude  43°14'00"",  Longitude  74°11'18""  NAD83; Fulton County, New York,  Hydrologic Unit 02020002; Drainage area: 712 square miles",1844080000.0
+22,1323000,1939-10-01,1946-09-29,"Latitude  43°04'00.3"",  Longitude  74°09'47.1""  NAD83; Fulton County, New York,  Hydrologic Unit 02020002; Drainage area: 28.3 square miles",73297000.0
+23,1325000,1907-09-13,2023-03-28,"Latitude  43°18'41"",  Longitude  73°52'02""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020002; Drainage area: 1,055 square miles",2732450000.0
+24,1326500,1912-10-01,1923-03-31,"Latitude  43°14'33.4"",  Longitude  73°44'40.5""  NAD83; Warren County, New York,  Hydrologic Unit 02020003; Drainage area: 2,779 square miles",7197610000.0
+25,1327000,1960-10-01,1963-11-30,"Latitude  43°17'30"",  Longitude  73°39'55""  NAD27; Warren County, New York,  Hydrologic Unit 02020003; Data Type
+Begin Date
+End Date
+Count
+
+ Daily Data
+  Discharge, cubic feet per second1960-10-011963-11-30703
+Daily Statistics
+  Discharge, cubic feet per second1960-10-011963-11-30703
+Monthly Statistics
+  Discharge, cubic feet per second1960-101963-11
+Annual Statistics
+  Discharge, cubic feet per second19611964
+Revisions
+Loading...",-999.0
+26,1327500,1960-10-01,2023-03-28,"Latitude  43°18'15.3"",  Longitude  73°32'47.4""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Datum of gage:  138.56 feet above  NAVD88.",-999.0
+27,1327750,1899-01-01,2023-03-28,"Latitude  43°16'09.8"",  Longitude  73°35'45.0""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Drainage area: 2,810 square miles",7277900000.0
+28,1328000,1947-10-01,1982-10-25,"Latitude  43°18'22"",  Longitude  73°32'54""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Drainage area: 14.1 square miles",36519000.0
+29,1328770,2014-09-04,2022-10-06,"Latitude  43°07'31.4"",  Longitude  73°35'05.7""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Drainage area: 3,000 square miles",7770000000.0
+30,1329000,1928-10-01,1984-06-30,"Latitude  43°04'34"",  Longitude  73°09'26""  NAD27; Bennington County, Vermont,  Hydrologic Unit 02020003; Drainage area: 152.00 square miles",-999.0
+31,1329490,1922-10-01,2023-03-28,"Latitude  43°06'31.2"",  Longitude  73°25'20.7""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Drainage area: 396 square miles",1025640000.0
+32,1329500,1922-10-01,2003-09-29,"Latitude  43°06'01.9"",  Longitude  73°25'52.4""  NAD83; Washington County, New York,  Hydrologic Unit 02020003; Drainage area: 396 square miles",1025640000.0
+33,1329650,1977-03-10,1979-09-29,"Latitude  43°05'54"",  Longitude  73°34'25""  NAD27; Saratoga County, New York,  Hydrologic Unit 02020003; Drainage area: 3,440 square miles",8909600000.0
+34,1330000,1948-04-04,2023-03-28,"Latitude  43°01'50.9"",  Longitude  73°55'39.3""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020003; Drainage area: 24.9 square miles",64491000.0
+35,1330500,1927-07-30,1995-03-31,"Latitude  43°02'18"",  Longitude  73°54'33""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020003; Drainage area: 84.2 square miles",218078000.0
+36,1331095,1977-03-01,2023-03-29,"Latitude  42°56'08"",  Longitude  73°39'06""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020003; Drainage area: 3,773 square miles",9772070000.0
+37,1331400,1962-11-01,1974-09-30,"Latitude  42°35'20"",  Longitude  73°06'48""  NAD27; Berkshire County, Massachusetts,  Hydrologic Unit 02020003; Drainage area: 7.67 square miles",19865300.0
+38,1331500,1931-10-01,2023-03-28,"Latitude  42°36'40"",  Longitude  73°07'28""  NAD27; Berkshire County, Massachusetts,  Hydrologic Unit 02020003; Drainage area: 46.7 square miles",120953000.0
+39,1332000,1931-06-22,1990-09-30,"Latitude  42°42'08"",  Longitude  73°05'37""  NAD27; Berkshire County, Massachusetts,  Hydrologic Unit 02020003; Drainage area: 40.90 square miles",105931000.0
+40,1332500,1940-07-19,2023-03-28,"Latitude  42°42'01"",  Longitude  73°09'34""  NAD27; Berkshire County, Massachusetts,  Hydrologic Unit 02020003; Drainage area: 126 square miles",326340000.0
+41,1333000,1949-09-20,2023-03-28,"Latitude  42°42'32"",  Longitude  73°11'50""  NAD27; Berkshire County, Massachusetts,  Hydrologic Unit 02020003; Drainage area: 42.6 square miles",110334000.0
+42,1333500,1951-07-01,1996-09-29,"Latitude  42°45'50.0"",  Longitude  73°20'13.9""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020003; Drainage area: 56.1 square miles",145299000.0
+43,1334000,1931-06-27,2023-03-28,"Latitude  42°54'46"",  Longitude  73°15'25""  NAD27; Bennington County, Vermont,  Hydrologic Unit 02020003; Drainage area: 111 square miles",287490000.0
+44,1334500,1910-08-13,2023-03-28,"Latitude  42°56'18.9"",  Longitude  73°22'37.0""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020003; Drainage area: 510 square miles",1320900000.0
+45,1335000,1903-10-01,1908-12-31,"Latitude  42°57'30"",  Longitude  73°25'58""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020003; Drainage area: 577 square miles",1494430000.0
+46,1335500,1887-10-01,1956-09-29,"Latitude  42°54'45"",  Longitude  73°40'45""  NAD27; Saratoga County, New York,  Hydrologic Unit 02020003; Drainage area: 4,500 square miles",11655000000.0
+47,1335754,1887-10-01,2023-03-27,"Latitude  42°49'45"",  Longitude  73°39'58""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020003; Drainage area: 4,605 square miles",11926950000.0
+48,1336000,1927-10-01,2023-03-28,"Latitude  43°15'52"",  Longitude  75°26'11""  NAD83; Oneida County, New York,  Hydrologic Unit 02020004; Drainage area: 152 square miles",393680000.0
+49,1337005,2022-10-26,2023-03-28,"Latitude  43°12'28.3"",  Longitude  75°18'20.6""  NAD83; Oneida County, New York,  Hydrologic Unit 02020004; Drainage area: 58.5 square miles",151515000.0
+50,1338000,2014-10-10,2023-03-28,"Latitude  43°08'34.0"",  Longitude  75°20'16.1""  NAD83; Oneida County, New York,  Hydrologic Unit 02020004; Drainage area: 144 square miles",372960000.0
+51,1339060,2014-09-26,2023-03-28,"Latitude  43°06'41.2"",  Longitude  75°17'38.4""  NAD83; Oneida County, New York,  Hydrologic Unit 02020004; Drainage area: 59.8 square miles",154882000.0
+52,1342500,1903-10-01,1906-09-29,"Latitude  43°03'55"",  Longitude  75°12'34""  NAD83; Oneida County, New York,  Hydrologic Unit 02020004; Drainage area: 3.66 square miles",9479400.0
+53,1342602,2014-09-18,2023-03-28,"Latitude  43°05'37.3"",  Longitude  75°09'28.5""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 553 square miles",1432270000.0
+54,1342682,2014-10-23,2023-03-28,"Latitude  43°01'37.0"",  Longitude  75°06'15.5""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 18.2 square miles",47138000.0
+55,1342730,1966-11-01,2023-03-28,"Latitude  43°00'23.7"",  Longitude  75°02'30.0""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 26.4 square miles",68376000.0
+56,1342743,2014-08-29,2023-03-28,"Latitude  42°59'06.8"",  Longitude  74°59'25.6""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 21.7 square miles",56203000.0
+57,134277112,2011-12-19,2019-10-07,"Latitude  43°32'01.7"",  Longitude  74°51'42.6""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 0.07 square miles",181300.00000000003
+58,134277114,2011-12-19,2019-10-07,"Latitude  43°31'53.0"",  Longitude  74°51'10.5""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 0.12 square miles",310800.0
+59,134277119,2011-12-19,2016-10-23,"Latitude  43°31'15.8"",  Longitude  74°48'04.0""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 0.84 square miles",2175600.0
+60,134277121,2011-10-19,2016-10-23,"Latitude  43°30'51.5"",  Longitude  74°47'55.9""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 0.12 square miles",310800.0
+61,134277123,2011-12-19,2015-11-16,"Latitude  43°30'41.4"",  Longitude  74°48'53.5""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 0.07 square miles",181300.00000000003
+62,1343060,2001-06-07,2023-03-28,"Latitude  43°21'58"",  Longitude  74°57'28""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 238 square miles",616420000.0
+63,1343403,2014-08-09,2023-03-28,"Latitude  43°16'58.0"",  Longitude  74°57'33.1""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 60.9 square miles",157731000.0
+64,1344000,1919-10-01,1958-09-29,"Latitude  43°18'25.6"",  Longitude  75°07'12.2""  NAD83; Oneida County, New York,  Hydrologic Unit 02020004; Drainage area: 375 square miles",971250000.0
+65,1344500,1960-10-01,1968-09-29,"Latitude  43°13'25"",  Longitude  75°12'15""  NAD27; Oneida County, New York,  Hydrologic Unit 02020004; Data Type
+Begin Date
+End Date
+Count
+
+ Daily Data
+  Discharge, cubic feet per second1960-10-011968-09-291800
+Daily Statistics
+  Discharge, cubic feet per second1960-10-011968-09-291800
+Monthly Statistics
+  Discharge, cubic feet per second1960-101968-09
+Annual Statistics
+  Discharge, cubic feet per second19611968
+Field measurements1919-07-191969-07-303
+Revisions
+Loading...",-999.0
+66,1344795,2022-11-23,2023-03-28,"Latitude  43°16'13.4"",  Longitude  75°11'03.3""  NAD83; Oneida County, New York,  Hydrologic Unit 02020004; Drainage area: 44.8 square miles",116032000.0
+67,1346000,1907-01-01,2023-03-28,"Latitude  43°04'08"",  Longitude  74°59'18""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 560 square miles",1450400000.0
+68,1346500,1901-10-01,1910-09-29,"Latitude  43°02'24"",  Longitude  74°51'32""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 1,288 square miles",3335920000.0
+69,1347000,1927-10-01,2023-03-28,"Latitude  43°00'53"",  Longitude  74°46'46""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 1,342 square miles",3475780000.0
+70,1347500,1898-10-01,1946-09-29,"Latitude  43°06'05"",  Longitude  74°46'11""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 258 square miles",668220000.0
+71,1348000,1945-12-02,2023-03-28,"Latitude  43°01'00"",  Longitude  74°44'27""  NAD83; Herkimer County, New York,  Hydrologic Unit 02020004; Drainage area: 289 square miles",748510000.0
+72,1349000,1949-10-01,2023-03-28,"Latitude  42°55'45.3"",  Longitude  74°37'58.4""  NAD83; Montgomery County, New York,  Hydrologic Unit 02020004; Drainage area: 61.0 square miles",157990000.0
+73,1349150,1993-03-27,2023-03-28,"Latitude  42°52'34.6"",  Longitude  74°36'10.3""  NAD83; Montgomery County, New York,  Hydrologic Unit 02020004; Drainage area: 59.7 square miles",154623000.0
+74,1349527,2014-10-01,2023-03-29,"Latitude  42°57'01.6"",  Longitude  74°22'15.6""  NAD83; Montgomery County, New York,  Hydrologic Unit 02020004; Drainage area: 2,118 square miles",5485620000.0
+75,1349541,1999-09-16,2009-06-29,"Latitude  42°08'42.8"",  Longitude  74°07'21.5""  NAD83; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 1.12 square miles",2900800.0000000005
+76,1349700,1996-12-27,2023-03-28,"Latitude  42°14'57"",  Longitude  74°18'10""  NAD83; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 35.6 square miles",92204000.0
+77,1349705,1999-08-18,2023-03-28,"Latitude  42°14'13"",  Longitude  74°20'25""  NAD83; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 96.8 square miles",250712000.0
+78,1349711,1997-10-01,2023-03-28,"Latitude  42°11'06.2"",  Longitude  74°16'37.6""  NAD83; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 4.97 square miles",12872300.0
+79,1349810,1997-10-01,2023-03-28,"Latitude  42°13'49"",  Longitude  74°23'35""  NAD83; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 27.0 square miles",69930000.0
+80,1349840,1997-10-01,2009-06-29,"Latitude  42°17'22.7"",  Longitude  74°06'58.6""  NAD83; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 2.03 square miles",5257699.999999999
+81,1349858,1976-05-06,1977-09-29,"Latitude  42°17'43"",  Longitude  74°12'48""  NAD27; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 6.66 square miles",17249400.0
+82,1349900,1991-08-01,2001-09-29,"Latitude  42°17'36"",  Longitude  74°18'21""  NAD83; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 51.2 square miles",132608000.0
+83,1349950,1997-10-01,2023-03-28,"Latitude  42°18'30"",  Longitude  74°23'24""  NAD83; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 68.6 square miles",177674000.0
+84,1350000,1902-11-09,2023-03-28,"Latitude  42°19'10"",  Longitude  74°26'12""  NAD83; Greene County, New York,  Hydrologic Unit 02020005; Drainage area: 237 square miles",613830000.0
+85,1350032,1999-09-01,2009-06-29,"Latitude  42°19'57.3"",  Longitude  74°29'37.2""  NAD83; Delaware County, New York,  Hydrologic Unit 02020005; Drainage area: 0.76 square miles",1968400.0
+86,1350035,1998-09-30,2023-03-28,"Latitude  42°20'17"",  Longitude  74°27'06""  NAD83; Delaware County, New York,  Hydrologic Unit 02020005; Drainage area: 25.7 square miles",66563000.0
+87,1350080,1986-07-18,2023-03-28,"Latitude  42°22'37"",  Longitude  74°24'47""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 32.4 square miles",83916000.0
+88,1350101,1975-10-01,2023-03-28,"Latitude  42°23'50.0"",  Longitude  74°27'02.0""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 316 square miles",818440000.0
+89,1350120,1975-01-28,2023-03-28,"Latitude  42°24'22"",  Longitude  74°26'50""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 10.9 square miles",28231000.0
+90,1350140,1974-12-13,2023-03-28,"Latitude  42°25'44"",  Longitude  74°28'23""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 16.2 square miles",41958000.0
+91,1350180,1970-10-01,2023-03-28,"Latitude  42°27'57"",  Longitude  74°27'44""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 358 square miles",927220000.0
+92,1350200,1975-07-01,1987-09-29,"Latitude  42°28'07"",  Longitude  74°27'33""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 44.6 square miles",115514000.0
+93,1350212,2017-11-17,2023-03-28,"Latitude  42°28'21.5"",  Longitude  74°26'28.1""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 405 square miles",1048950000.0
+94,1350355,1975-07-29,2023-03-28,"Latitude  42°32'15.5"",  Longitude  74°24'36.9""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 444 square miles",1149960000.0
+95,1350480,2017-12-21,2023-03-28,"Latitude  42°34'52.6"",  Longitude  74°19'02.8""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 18.1 square miles",46879000.0
+96,1350500,1927-07-01,2023-03-28,"Latitude  42°35'58.2"",  Longitude  74°20'10.9""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 534 square miles",1383060000.0
+97,1351000,1924-10-01,1968-09-29,"Latitude  42°37'42"",  Longitude  74°10'59""  NAD83; Albany County, New York,  Hydrologic Unit 02020005; Drainage area: 67.2 square miles",174048000.0
+98,1351200,2017-11-29,2023-03-28,"Latitude  42°40'23"",  Longitude  74°15'14""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 99.0 square miles",256410000.0
+99,1351298,2017-11-22,2023-03-28,"Latitude  42°40'21.2"",  Longitude  74°28'54.9""  NAD83; Schoharie County, New York,  Hydrologic Unit 02020005; Drainage area: 102 square miles",264180000.0
+100,1351500,1939-10-01,2023-03-28,"Latitude  42°48'00.1"",  Longitude  74°15'46.0""  NAD83; Schenectady County, New York,  Hydrologic Unit 02020005; Drainage area: 886 square miles",2294740000.0
+101,1354083,2015-01-16,2023-03-28,"Latitude  42°56'02.4"",  Longitude  74°11'30.7""  NAD83; Montgomery County, New York,  Hydrologic Unit 02020004; Drainage area: 3,152 square miles",8163680000.0
+102,1354500,2011-08-06,2023-03-28,"Latitude  42°49'49.9"",  Longitude  73°55'50.7""  NAD83; Schenectady County, New York,  Hydrologic Unit 02020004; Drainage area: 3,310 square miles",8572900000.0
+103,1356000,1915-10-01,1919-09-29,"Latitude  42°48'15.1"",  Longitude  73°50'51.6""  NAD83; Saratoga County, New York,  Hydrologic Unit 02020004; Drainage area: 3,371 square miles",8730890000.0
+104,1356190,1993-08-26,2012-09-29,"Latitude  42°47'01"",  Longitude  73°51'24""  NAD83; Schenectady County, New York,  Hydrologic Unit 02020004; Drainage area: 16.2 square miles",41958000.0
+105,1357499,1925-10-01,2022-12-22,"Latitude  42°48'10"",  Longitude  73°42'11""  NAD27; Saratoga County, New York,  Hydrologic Unit 02020004; Data Type
+Begin Date
+End Date
+Count
+
+ Daily Data
+  Discharge, cubic feet per second1925-10-012022-12-2235512
+Daily Statistics
+  Discharge, cubic feet per second1925-10-012022-12-2135511
+Monthly Statistics
+  Discharge, cubic feet per second1925-102022-12
+Annual Statistics
+  Discharge, cubic feet per second19262023
+Field measurements1997-04-111997-04-111
+Water-Year Summary2005202218
+Revisions
+Loading...",-999.0
+106,1357500,1917-12-01,2023-03-28,"Latitude  42°47'07.4"",  Longitude  73°42'28.0""  NAD83; Albany County, New York,  Hydrologic Unit 02020004; Drainage area: 3,450 square miles",8935500000.0
+107,1358000,1946-02-21,2023-03-28,"Latitude  42°45'08"",  Longitude  73°41'20""  NAD83; Albany County, New York,  Hydrologic Unit 02020003; Drainage area: 8,090 square miles",20953100000.0
+108,1358500,1923-10-01,1968-09-30,"Latitude  42°43'57.1"",  Longitude  73°37'57.5""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020006; Drainage area: 89.4 square miles",231546000.0
+109,1359133,2002-10-19,2009-03-30,"Latitude  42°40'17"",  Longitude  73°45'20""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 13.1 square miles",33929000.0
+110,1359135,2018-12-21,2023-03-28,"Latitude  42°39'48.4"",  Longitude  73°44'41.5""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 13.8 square miles",35742000.0
+111,1359150,1974-11-01,1977-09-29,"Latitude  42°36'45"",  Longitude  73°41'43""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020006; Drainage area: 9.74 square miles",25226600.0
+112,1359513,1967-09-01,1977-09-29,"Latitude  42°41'22"",  Longitude  73°54'24""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 8.16 square miles",21134400.0
+113,1359519,1967-10-01,1980-02-04,"Latitude  42°40'43"",  Longitude  73°54'23""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 136 square miles",352240000.0
+114,1359528,1979-05-15,2023-03-28,"Latitude  42°38'01.1"",  Longitude  73°48'15.4""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 168 square miles",435120000.0
+115,1359750,1957-10-01,1995-03-31,"Latitude  42°32'02"",  Longitude  73°44'13""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020006; Drainage area: 31.6 square miles",81844000.0
+116,1359902,1967-08-29,1977-09-29,"Latitude  42°31'38"",  Longitude  73°49'12""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 37.0 square miles",95830000.0
+117,1359918,1978-06-01,1981-09-29,"Latitude  42°29'17"",  Longitude  73°58'54""  NAD83; Albany County, New York,  Hydrologic Unit 02020006; Drainage area: 2.90 square miles",7511000.0
+118,1359924,1967-10-01,1977-09-29,"Latitude  42°26'23.7"",  Longitude  73°48'38.1""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 61.6 square miles",159544000.0
+119,1360640,1990-10-01,2023-03-28,"Latitude  42°33'08.5"",  Longitude  73°35'26.1""  NAD83; Rensselaer County, New York,  Hydrologic Unit 02020006; Drainage area: 9.48 square miles",24553200.0
+120,1361000,1906-04-01,2023-03-28,"Latitude  42°19'51.8"",  Longitude  73°44'40.0""  NAD83; Columbia County, New York,  Hydrologic Unit 02020006; Drainage area: 329 square miles",852110000.0
+121,1361200,1960-03-31,1995-04-30,"Latitude  42°12'58.5"",  Longitude  73°43'49.0""  NAD83; Columbia County, New York,  Hydrologic Unit 02020006; Drainage area: 60.6 square miles",156954000.0
+122,1361500,1929-03-01,1977-09-29,"Latitude  42°24'19.0"",  Longitude  74°09'05.6""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 95.8 square miles",248122000.0
+123,1361570,1968-10-01,1978-09-29,"Latitude  42°24'26"",  Longitude  74°08'04""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 36.6 square miles",94794000.0
+124,1362000,1901-10-01,1906-09-29,"Latitude  42°16'40"",  Longitude  73°57'28""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 270 square miles",699300000.0
+125,1362090,2011-03-01,2015-03-30,"Latitude  42°13'23.7"",  Longitude  73°53'07.5""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 405 square miles",1048950000.0
+126,1362100,1957-07-23,1959-11-15,"Latitude  42°09'14"",  Longitude  73°31'12""  NAD83; Columbia County, New York,  Hydrologic Unit 02020006; Drainage area: 27.5 square miles",71225000.0
+127,1362182,2010-09-30,2014-02-27,"Latitude  42°09'08"",  Longitude  73°50'38""  NAD83; Columbia County, New York,  Hydrologic Unit 02020006; Drainage area: 212 square miles",549080000.0
+128,1362192,2001-10-01,2009-06-29,"Latitude  42°02'01"",  Longitude  74°25'14""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 1.54 square miles",3988600.0
+129,136219503,2016-10-12,2023-03-29,"Latitude  42°05'52.4"",  Longitude  74°26'56.7""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 29.6 square miles",76664000.0
+130,13621955,1998-09-30,2023-03-28,"Latitude  42°06'32"",  Longitude  74°27'07""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 12.5 square miles",32375000.0
+131,1362198,1963-10-01,1988-09-29,"Latitude  42°06'59"",  Longitude  74°23'20""  NAD27; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 59.5 square miles",154105000.0
+132,1362200,1963-10-01,2023-03-28,"Latitude  42°07'01"",  Longitude  74°22'49""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 63.7 square miles",164983000.0
+133,1362230,1996-12-18,2023-03-28,"Latitude  42°06'52"",  Longitude  74°21'51""  NAD27; Ulster County, New York,  Hydrologic Unit 02020006; Datum of gage:  964.39 feet above  NAVD88.",-999.0
+134,1362297,2021-10-23,2023-03-28,"Latitude  42°04'22.3"",  Longitude  74°20'08.6""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 3.53 square miles",9142700.0
+135,136230002,2003-08-01,2023-03-28,"Latitude  42°04'47.0"",  Longitude  74°20'04.5""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 20.6 square miles",53354000.0
+136,1362322,2016-11-14,2023-03-29,"Latitude  42°08'01.0"",  Longitude  74°13'53.5""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 1.81 square miles",4687900.0
+137,1362336,2016-11-15,2023-03-29,"Latitude  42°07'40.6"",  Longitude  74°15'47.7""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 9.25 square miles",23957500.0
+138,1362342,1997-10-01,2023-03-28,"Latitude  42°08'32"",  Longitude  74°15'54""  NAD83; Greene County, New York,  Hydrologic Unit 02020006; Drainage area: 1.95 square miles",5050500.0
+139,1362357,2012-05-29,2023-03-28,"Latitude  42°05'46.2"",  Longitude  74°17'25.5""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 8.71 square miles",22558900.000000004
+140,1362368,2016-12-15,2023-03-29,"Latitude  42°06'17.2"",  Longitude  74°18'34.4""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 3.83 square miles",9919700.0
+141,1362370,1997-02-01,2023-03-28,"Latitude  42°06'07.3"",  Longitude  74°18'39.2""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 30.9 square miles",80031000.0
+142,1362380,1997-02-01,2007-08-06,"Latitude  42°05'53"",  Longitude  74°19'03""  NAD27; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 31.5 square miles",81585000.0
+143,1362465,2000-07-27,2010-09-29,"Latitude  42°04'59"",  Longitude  74°10'59""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 1.02 square miles",2641800.0
+144,1362487,2010-09-30,2023-03-28,"Latitude  42°02'48"",  Longitude  74°16'38""  NAD27; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 25.0 square miles",64750000.0
+145,1362497,1997-10-01,2023-03-28,"Latitude  42°01'10"",  Longitude  74°15'59""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 16.5 square miles",42735000.0
+146,1362500,1931-10-01,2023-03-28,"Latitude  42°00'52.1"",  Longitude  74°16'12.7""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 192 square miles",497280000.0
+147,1363382,2000-08-11,2023-03-28,"Latitude  41°57'56"",  Longitude  74°17'35""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 17.0 square miles",44030000.0
+148,1363500,1906-10-19,1913-09-29,"Latitude  41°56'05"",  Longitude  74°12'25""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 239 square miles",619010000.0
+149,1363556,2013-11-08,2023-03-28,"Latitude  41°52'45.6"",  Longitude  74°08'43.3""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 279 square miles",722610000.0
+150,1364000,1901-10-01,1908-09-29,"Latitude  41°56'25"",  Longitude  74°01'39""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 317 square miles",821030000.0
+151,1364500,1907-04-04,2023-03-28,"Latitude  42°02'16"",  Longitude  73°58'19""  NAD83; Ulster County, New York,  Hydrologic Unit 02020006; Drainage area: 419 square miles",1085210000.0
+152,1364800,1959-10-01,1965-12-31,"Latitude  42°00'14"",  Longitude  73°52'48""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020006; Drainage area: 20.9 square miles",54131000.0
+153,1364959,1996-05-01,2022-05-04,"Latitude  41°56'13"",  Longitude  74°22'29""  NAD83; Ulster County, New York,  Hydrologic Unit 02020007; Drainage area: 5.36 square miles",13882400.0
+154,1365000,1937-02-04,2023-03-28,"Latitude  41°51'59"",  Longitude  74°29'14""  NAD83; Sullivan County, New York,  Hydrologic Unit 02020007; Drainage area: 38.3 square miles",99197000.0
+155,1365100,2018-12-20,2023-03-28,"Latitude  41°51'07.6"",  Longitude  74°30'46.9""  NAD83; Sullivan County, New York,  Hydrologic Unit 02020007; Datum of gage:  833.89 feet above  NAVD88.",-999.0
+156,1365500,1938-11-09,2023-03-28,"Latitude  41°50'42"",  Longitude  74°32'22""  NAD83; Sullivan County, New York,  Hydrologic Unit 02020007; Drainage area: 20.9 square miles",54131000.0
+157,1365505,2018-09-13,2023-03-29,"Latitude  41°50'44.0"",  Longitude  74°32'09.9""  NAD83; Sullivan County, New York,  Hydrologic Unit 02020007; Data Type
+Begin Date
+End Date
+Count
+
+Current / Historical Observations  
+ (availability statement) 
+
+2018-09-132023-03-29
+ Daily Data
+  Discharge, cubic feet per second2018-09-132023-03-291659
+Daily Statistics
+  Discharge, cubic feet per second2018-09-132021-09-301114
+Monthly Statistics
+  Discharge, cubic feet per second2018-092021-09
+Annual Statistics
+  Discharge, cubic feet per second20182021
+Peak streamflow2019-09-252021-09-253
+Field measurements1985-06-262022-10-129
+Water-Year Summary201820214
+Revisions
+Loading...",-999.0
+158,1365550,2018-09-14,2023-03-28,"Latitude  41°50'56.7"",  Longitude  74°31'54.6""  NAD83; Sullivan County, New York,  Hydrologic Unit 02020007; Drainage area: 21.5 square miles",55685000.0
+159,1366500,1931-10-01,1967-06-30,"Latitude  41°46'23.4"",  Longitude  74°24'00.0""  NAD83; Ulster County, New York,  Hydrologic Unit 02020007; Drainage area: 100 square miles",259000000.0
+160,1366650,1957-10-01,1977-09-29,"Latitude  41°42'51"",  Longitude  74°23'21""  NAD83; Ulster County, New York,  Hydrologic Unit 02020007; Drainage area: 52.8 square miles",136752000.0
+161,1367500,1901-07-08,2023-03-28,"Latitude  41°50'35.1"",  Longitude  74°05'10.0""  NAD83; Ulster County, New York,  Hydrologic Unit 02020007; Drainage area: 383 square miles",991970000.0
+162,1367690,2010-09-01,2014-03-31,"Latitude  41°06'19"",  Longitude  74°33'34.6""  NAD83; Sussex County, New Jersey,  Hydrologic Unit 02020007; Drainage area: 5.74 square miles",14866600.0
+163,1367800,2003-09-16,2014-09-29,"Latitude  41°09'46"",  Longitude  74°40'31""  NAD83; Sussex County, New Jersey,  Hydrologic Unit 02020007; Drainage area: 15.8 square miles",40922000.0
+164,1367805,2014-10-01,2017-10-13,"Latitude  41°10'12.0"",  Longitude  74°39'23.84""  NAD83; Sussex County, New Jersey,  Hydrologic Unit 02020007; Drainage area: 18.1 square miles",46879000.0
+165,1368000,1937-10-01,1981-09-29,"Latitude  41°15'36"",  Longitude  74°32'56""  NAD27; Sussex County, New Jersey,  Hydrologic Unit 02020007; Drainage area: 140 square miles",362600000.0
+166,1368050,2018-05-19,2023-03-28,"Latitude  41°17'16.2"",  Longitude  74°32'03.6""  NAD83; Orange County, New York,  Hydrologic Unit 02020007; Drainage area: 152 square miles",393680000.0
+167,1368500,1943-10-01,1968-09-30,"Latitude  41°20'40.0"",  Longitude  74°29'16.0""  NAD83; Orange County, New York,  Hydrologic Unit 02020007; Drainage area: 59.7 square miles",154623000.0
+168,1369000,1937-09-01,1977-09-29,"Latitude  41°16'32"",  Longitude  74°28'18""  NAD83; Orange County, New York,  Hydrologic Unit 02020007; Drainage area: 98.0 square miles",253820000.0
+169,1369500,1937-10-01,1979-09-29,"Latitude  41°20'21"",  Longitude  74°21'44""  NAD83; Orange County, New York,  Hydrologic Unit 02020007; Drainage area: 9.74 square miles",25226600.0
+170,1370000,1920-01-01,1968-09-29,"Latitude  41°22'50"",  Longitude  74°24'49""  NAD83; Orange County, New York,  Hydrologic Unit 02020007; Drainage area: 380 square miles",984200000.0
+171,1370500,1936-10-01,1959-09-29,"Latitude  41°25'57"",  Longitude  74°22'28""  NAD83; Orange County, New York,  Hydrologic Unit 02020007; Drainage area: 415 square miles",1074850000.0
+172,1370520,2018-06-14,2023-03-28,"Latitude  41°26'18.2"",  Longitude  74°21'57.4""  NAD83; Orange County, New York,  Hydrologic Unit 02020007; Drainage area: 429 square miles",1111110000.0
+173,1370600,1964-05-01,1968-09-29,"Latitude  41°28'12"",  Longitude  74°19'58""  NAD83; Orange County, New York,  Hydrologic Unit 02020007; Drainage area: 8.40 square miles",21756000.0
+174,1371000,1924-09-24,1992-12-31,"Latitude  41°37'08"",  Longitude  74°17'36""  NAD83; Ulster County, New York,  Hydrologic Unit 02020007; Drainage area: 104 square miles",269360000.0
+175,1371500,1924-09-23,2023-03-28,"Latitude  41°41'10.1"",  Longitude  74°09'55.0""  NAD83; Ulster County, New York,  Hydrologic Unit 02020007; Drainage area: 695 square miles",1800050000.0
+176,1372040,1960-10-01,1962-04-30,"Latitude  41°47'25.99"",  Longitude  73°55'48.76""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 18.1 square miles",46879000.0
+177,1372051,1993-03-26,1995-09-30,"Latitude  41°42'36"",  Longitude  73°55'34""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 18.8 square miles",48692000.0
+178,1372065,1969-01-01,1975-12-31,"Latitude  41°37'54"",  Longitude  73°55'38""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 10.1 square miles",26159000.0
+179,1372100,1956-01-01,1963-09-29,"Latitude  41°48'45"",  Longitude  73°45'33""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 33.6 square miles",87024000.0
+180,1372200,1956-01-01,1975-12-31,"Latitude  41°48'52.7"",  Longitude  73°45'48.5""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 92.4 square miles",239316000.0
+181,1372300,1956-01-01,1975-12-31,"Latitude  41°48'18"",  Longitude  73°47'36""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 32.9 square miles",85211000.0
+182,1372400,1960-08-01,1965-12-31,"Latitude  41°45'22"",  Longitude  73°49'27""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 15.5 square miles",40145000.0
+183,1372500,1928-08-07,2023-03-28,"Latitude  41°39'11"",  Longitude  73°52'21""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 181 square miles",468790000.0
+184,1372800,1957-10-01,1975-12-31,"Latitude  41°34'22"",  Longitude  73°48'23""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 57.3 square miles",148407000.0
+185,1372850,1959-08-01,1968-09-30,"Latitude  41°34'37"",  Longitude  73°48'55""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 7.37 square miles",19088300.0
+186,1373500,1944-10-01,1968-09-29,"Latitude  41°30'42.7"",  Longitude  73°56'53.3""  NAD83; Dutchess County, New York,  Hydrologic Unit 02020008; Drainage area: 190 square miles",492100000.0
+187,1373600,1964-06-01,1968-09-29,"Latitude  41°20'59"",  Longitude  74°14'25""  NAD83; Orange County, New York,  Hydrologic Unit 02020008; Drainage area: 12.8 square miles",33152000.0
+188,1373690,1965-12-11,1968-09-29,"Latitude  41°22'00"",  Longitude  74°06'16""  NAD83; Orange County, New York,  Hydrologic Unit 02020008; Drainage area: 11.2 square miles",29008000.0
+189,1374420,1960-10-01,1963-09-29,"Latitude  41°14'26"",  Longitude  74°01'28""  NAD83; Rockland County, New York,  Hydrologic Unit 02030101; Drainage area: 10.6 square miles",27454000.0
+190,1374440,1960-10-01,1962-09-29,"Latitude  41°13'36"",  Longitude  73°59'04""  NAD27; Rockland County, New York,  Hydrologic Unit 02030101; Drainage area: 17.40 square miles",45066000.0
+191,1374480,1960-10-01,1963-09-29,"Latitude  41°12'34"",  Longitude  74°01'15""  NAD83; Rockland County, New York,  Hydrologic Unit 02030101; Drainage area: 15.1 square miles",39109000.0
+192,137449480,1995-10-01,2023-03-28,"Latitude  41°26'50.1"",  Longitude  73°33'21.9""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 62.1 square miles",160839000.0
+193,1374505,1994-03-31,2023-03-28,"Latitude  41°23'40.5"",  Longitude  73°36'26.9""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 81.2 square miles",210308000.0
+194,1374531,1994-06-01,2023-03-28,"Latitude  41°22'24.2"",  Longitude  73°38'22.5""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 86.4 square miles",223776000.0
+195,1374559,1995-10-01,2023-03-28,"Latitude  41°28'13.7"",  Longitude  73°45'34.5""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 11.0 square miles",28490000.0
+196,1374581,2001-10-31,2023-03-28,"Latitude  41°26'59.8"",  Longitude  73°44'10.0""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 22.4 square miles",58016000.0
+197,1374598,1996-08-16,2023-03-28,"Latitude  41°28'33.1"",  Longitude  73°41'22.1""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 3.94 square miles",10204600.0
+198,137462010,1994-03-29,2023-03-28,"Latitude  41°24'42.5"",  Longitude  73°41'37.5""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 42.9 square miles",111111000.0
+199,1374654,1995-12-09,2013-03-31,"Latitude  41°25'55.9"",  Longitude  73°39'06.4""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 13.7 square miles",35483000.0
+200,1374701,1994-01-25,2023-03-28,"Latitude  41°21'28.8"",  Longitude  73°40'04.7""  NAD83; Putnam County, New York,  Hydrologic Unit 02030101; Drainage area: 80.4 square miles",208236000.0
+201,1374781,2006-12-08,2023-03-28,"Latitude  41°19'38.5"",  Longitude  73°35'29.3""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 12.9 square miles",33411000.0
+202,1374821,1994-03-23,2023-03-28,"Latitude  41°19'37.6"",  Longitude  73°39'20.3""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 23.8 square miles",61642000.0
+203,1374890,1995-12-08,2023-03-28,"Latitude  41°15'36.8"",  Longitude  73°36'06.7""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 17.1 square miles",44289000.0
+204,1374901,1994-03-17,2023-03-28,"Latitude  41°15'58"",  Longitude  73°39'56""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 29.9 square miles",77441000.0
+205,1374918,1999-06-10,2009-06-29,"Latitude  41°14'58"",  Longitude  73°40'13""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 18.7 square miles",48433000.0
+206,1374930,1995-10-01,2023-03-28,"Latitude  41°20'17.3"",  Longitude  73°46'07.3""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 13.5 square miles",34965000.0
+207,1374941,1994-03-23,2023-03-28,"Latitude  41°17'15.4"",  Longitude  73°45'13.1""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 19.7 square miles",51023000.0
+208,1374976,1995-12-08,2005-09-29,"Latitude  41°16'57.1"",  Longitude  73°43'31.6""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 3.01 square miles",7795899.999999999
+209,1374987,1995-10-21,2009-06-29,"Latitude  41°13'43.5"",  Longitude  73°44'37.0""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 17.6 square miles",45584000.0
+210,137499350,1999-06-11,2009-06-29,"Latitude  41°15'43"",  Longitude  73°50'34""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 7.42 square miles",19217800.0
+211,1375000,1933-07-29,2023-03-28,"Latitude  41°13'30.1"",  Longitude  73°51'32.0""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 378 square miles",979020000.0
+212,1375500,1933-10-01,1941-09-30,"Latitude  41°12'43"",  Longitude  73°51'59""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 0.40 square miles",1036000.0
+213,1376270,1959-10-01,1966-09-29,"Latitude  41°01'26"",  Longitude  73°56'52""  NAD27; Rockland County, New York,  Hydrologic Unit 02030101; Drainage area: 4.71 square miles",12198900.0
+214,1376275,1965-10-01,1966-09-30,"Latitude  41°00'55"",  Longitude  73°56'16""  NAD83; Rockland County, New York,  Hydrologic Unit 02030101; Drainage area: 9.42 square miles",24397800.0
+215,1376280,1959-10-01,1978-09-29,"Latitude  41°01'44"",  Longitude  73°55'32""  NAD83; Rockland County, New York,  Hydrologic Unit 02030101; Drainage area: 10.7 square miles",27713000.0
+216,1376500,1943-11-10,1995-09-29,"Latitude  40°56'11"",  Longitude  73°53'10""  NAD83; Westchester County, New York,  Hydrologic Unit 02030101; Drainage area: 25.6 square miles",66304000.0
+217,4252000,1965-10-01,1980-09-29,"Latitude  43°27'20"",  Longitude  75°19'25""  NAD27; Oneida County, New York,  Hydrologic Unit 02020004; Data Type
+Begin Date
+End Date
+Count
+
+ Daily Data
+  Discharge, cubic feet per second1965-10-011980-09-293765
+Daily Statistics
+  Discharge, cubic feet per second1965-10-011980-09-293765
+Monthly Statistics
+  Discharge, cubic feet per second1965-101980-09
+Annual Statistics
+  Discharge, cubic feet per second19661980
+Field measurements1913-08-041913-11-063
+Revisions
+Loading...",-999.0
