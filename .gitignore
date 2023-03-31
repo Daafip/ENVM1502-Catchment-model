@@ -3,3 +3,9 @@
 *.png
 Data/3286005.csv
 Data/.ipynb_checkpoints/3286005-checkpoint.csv
+GIS/flow_acc.prj
+GIS/flow_acc.sdat
+GIS/flow_acc.sgrd
+GIS/reproject flowacc.sdat
+GIS/reproject flowacc.sgrd
+GIS/flow_acc.sdat.aux.xml
