@@ -4,11 +4,11 @@ Catchment model for the course ENVM1502
 
 | Unit        | What             | To dos                             | Wie  | Klaar? |  Result              |
 | ----------- | -----------      |----------------------------------  | ---- | ------ | -------------------- |
-| 0.0         | P data (& T)     | Precip data, likely also temp      | Anne | P      |                      |  
+| 0.0         | P data (& T)     | Precip data, likely also temp      | Anne | Yes    | loaded in            |  
 | 0.0         | Q data           | From UGSG                          | David| Yes    | loaded in            |  
 | 0.0         | EP data          | from satelite product?             |      |        |                      | 
 | ----------- | -----------      |----------------------------------  | ---- | ------ |--------------------- |
-| 1.1         | Budyko curve     | Plotting Ea/P vs EP/p &  desribing |      |        |                      |  
+| 1.1         | Budyko curve     | Plotting Ea/P vs EP/p &  desribing | Anne |        |                      |  
 | 1.2         | EVA              | Creating MEV & GEV                 |      |        |                      |
 | 1.3         | Vegetation       | Estimate rootzone storage          |      |        |                      |
 | 1.4         | snow             | Estimate snow storage & melt       |      |        |                      |  
