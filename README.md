@@ -9,7 +9,7 @@ Catchment model for the course ENVM1502
 | 0.0         | EP data             | from satelite product?                 | David | Kinda  | Issues with |pev|     | 
 | ----        | ----                |--------------------------------------- | ----  | ------ |---------------------- |
 | 1.1         | Budyko curve        | Plotting Ea/P vs EP/p &  desribing     | Anne  | Yes    |  done, needs comments |  
-| 1.2         | EVA                 | Creating MEV & GEV                     | David |        |                       |
+| 1.2         | EVA                 | Creating MEV & GEV                     | David | YEs    |  Done, needs comments |
 | 1.3         | Vegetation          | Estimate rootzone storage              | Anne  |        |                       |
 | 1.4         | snow                | Estimate snow storage & melt           | David |        |                       |  
 | 1.5         | Muskingum           | Flood routing                          | Anne  |        |                       |
