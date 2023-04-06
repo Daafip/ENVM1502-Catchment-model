@@ -6,14 +6,14 @@ Catchment model for the course ENVM1502
 | ----        | ----                |--------------------------------------- | ----  | ------ | --------------------- |
 | 0.0         | P data (& T)        | Precip data, likely also temp          | Anne  | Yes    | loaded in             |  
 | 0.0         | Q data              | From UGSG                              | David | Yes    | loaded in             |  
-| 0.0         | EP data             | from satelite product?                 | David | Kinda  | Issues with |pev|     | 
+| 0.0         | EP data             | from satelite product?                 | David | Yes    | era5 loaded in        | 
 | ----        | ----                |--------------------------------------- | ----  | ------ |---------------------- |
 | 1.1         | Budyko curve        | Plotting Ea/P vs EP/p &  desribing     | Anne  | Yes    |  done, needs comments |  
 | 1.2         | EVA                 | Creating MEV & GEV                     | David | Yes    |  Done, needs comments |
 | 1.3         | Vegetation          | Estimate rootzone storage              | Anne  | Yes    |  Done, needs comments |
 | 1.4         | snow                | Estimate snow storage & melt           | David |        |                       |  
 | 1.5         | Muskingum           | Flood routing                          | Anne  |        |                       |
-| 1.6         | Mositure recycle    | Local mositure                          | David |        |                       |
+| 1.6         | Mositure recycle    | Local mositure                         | David |        |                       |
 | ----        | ----                |--------------------------------------- | ----  | ------ | --------------------- |
 | 2.1         | map reservoirs      | Use landsat to select surface water    | David |        |                       |
 | 2.2         | remote P measure    | ?                                      | Anne  |        |                       |
