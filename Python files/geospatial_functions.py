@@ -4,6 +4,7 @@ import os
 import matplotlib.pyplot as plt
 import contextily as cx
 from rasterio.plot import show as rioshow
+from rasterio.warp import calculate_default_transform, reproject, Resampling
 
 
 # setting up some variables for nice plots
@@ -17,9 +18,6 @@ def get_background_map(name, bounds):
     if os.path.exists(f'Figures\\{name}_wgs84.tif'):
         pass 
     else:
-        # only import if needed
-        from rasterio.warp import calculate_default_transform, reproject, Resampling
-
         # unpack the bounds into the wanted corners
         xmin, ymin, xmax, ymax = bounds
 
@@ -59,6 +57,42 @@ def get_background_map(name, bounds):
                         dst_crs=dst_crs,
                         resampling=Resampling.nearest)
     return f'Figures\\{name}_wgs84.tif'
+
+
+def reproject_raster(path, destination_crs):       
+        dst_crs = destination_crs
+        # the map is in local coordinates, so we transform it here
+        # also see https://rasterio.readthedocs.io/en/latest/topics/reproject.html
+         
+        if os.path.exists(f'{path}_transform'):
+            pass 
+        else:
+            with rasterio.open(path) as src:
+                transform, width, height = calculate_default_transform(src.crs, dst_crs, src.width, src.height, *src.bounds)
+                kwargs = src.meta.copy()
+                # change the dictionary to what we want
+                kwargs.update({
+                    'crs': dst_crs,
+                    'transform': transform,
+                    'width': width,
+                    'height': height
+                })
+
+                # output a new .tif immage in the correct transformation        
+                with rasterio.open(f'{path}_transform', 'w', **kwargs) as dst:
+                    # update the image with the projection we want 
+                    for i in range(1, src.count + 1):
+                        reproject(
+                            source=rasterio.band(src, i),
+                            destination=rasterio.band(dst, i),
+                            src_transform=src.transform,
+                            src_crs=src.crs,
+                            dst_transform=transform,
+                            dst_crs=dst_crs,
+                            resampling=Resampling.nearest)
+
+        return f'{path}_transform'
+    
 
 
 
