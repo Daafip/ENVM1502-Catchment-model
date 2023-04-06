@@ -9,8 +9,11 @@
 - **"Q_Loading discharge data.ipynb"**: Takes the mentioned id, query's  the rest server and returns actual data for the discharge. Also loads map and figures.
 
 
+## EP:
 
+## 1.1-3.3:
 
+- notebooks to run general code
 
 
 #### unused:
