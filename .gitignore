@@ -16,3 +16,11 @@ Data/E/adaptor.mars.internal-1680602386.1701012-8965-6-e4b7b0e9-8928-4fa0-a4d2-6
 Data/E/adaptor.mars.internal-1680602386.1701012-8965-6-e4b7b0e9-8928-4fa0-a4d2-6648c4dd101f.grib.923a8.idx
 Data/EP/era5.grib
 Data/T/3292614.csv
+GIS/filled_dem.tif
+GIS/filled_dem.tif.aux.xml
+GIS/flow direction.tif
+GIS/flow direction.tif.aux.xml
+GIS/srtm_hudson_basin.tif
+GIS/srtm_hudson_basin.tif.aux.xml
+*.tif
+*.xml
