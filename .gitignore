@@ -25,3 +25,4 @@ GIS/srtm_hudson_basin.tif.aux.xml
 *.tif
 *.xml
 *.tiff_transform
+GIS/classification_of_waterbodies_26918.tif_transform

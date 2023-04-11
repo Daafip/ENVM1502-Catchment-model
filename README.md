@@ -15,7 +15,7 @@ Catchment model for the course ENVM1502
 | 1.5         | Muskingum           | Flood routing                          | Anne  | Yes    | Done, some commments  |
 | 1.6         | Mositure recycle    | Local mositure                         | David | Yes    | Done, commented       |
 | ----        | ----                |--------------------------------------- | ----  | ------ | --------------------- |
-| 2.1         | map reservoirs      | Use landsat to select surface water    | David |        |                       |
+| 2.1         | map reservoirs      | Use landsat to select surface water    | David | Yes    | Done, commented       |
 | 2.2         | remote P measure    | ?                                      | Anne  |        |                       |
 | 2.3         | mositure            | map soil moisture                      | David |        |                       |
 | 2.4         | DEMS & gravity      | Use dem & estimate S using grace       | Anne  |        |                       |

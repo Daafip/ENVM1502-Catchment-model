@@ -5,6 +5,8 @@ import matplotlib.pyplot as plt
 import contextily as cx
 from rasterio.plot import show as rioshow
 from rasterio.warp import calculate_default_transform, reproject, Resampling
+from rasterio.fill import fillnodata
+import numpy as np
 
 
 # setting up some variables for nice plots
@@ -59,15 +61,16 @@ def get_background_map(name, bounds):
     return f'Figures\\{name}_wgs84.tif'
 
 
-def reproject_raster(path, destination_crs):       
+def reproject_raster(source_path, destination_crs,ending="tif"):       
         dst_crs = destination_crs
         # the map is in local coordinates, so we transform it here
         # also see https://rasterio.readthedocs.io/en/latest/topics/reproject.html
-         
-        if os.path.exists(f'{path}_transform'):
+        n = len(ending) + 1
+        destination_transform_path = str(source_path)[:-n] + "_transform." + ending
+        if os.path.exists(destination_transform_path):
             pass 
         else:
-            with rasterio.open(path) as src:
+            with rasterio.open(source_path) as src:
                 transform, width, height = calculate_default_transform(src.crs, dst_crs, src.width, src.height, *src.bounds)
                 kwargs = src.meta.copy()
                 # change the dictionary to what we want
@@ -79,7 +82,7 @@ def reproject_raster(path, destination_crs):
                 })
 
                 # output a new .tif immage in the correct transformation        
-                with rasterio.open(f'{path}_transform', 'w', **kwargs) as dst:
+                with rasterio.open(destination_transform_path, 'w', **kwargs) as dst:
                     # update the image with the projection we want 
                     for i in range(1, src.count + 1):
                         reproject(
@@ -91,8 +94,31 @@ def reproject_raster(path, destination_crs):
                             dst_crs=dst_crs,
                             resampling=Resampling.nearest)
 
-        return f'{path}_transform'
-    
+        return destination_transform_path
+
+
+def remove_below_0(path, ending="tif"):
+    """removes any values below 0
+    """
+    source_raster_path = path
+    n = len(ending) + 1
+    destination_raster_path = path[:-n] + "_output." + ending
+    with rasterio.open(source_raster_path, "r+") as src:
+        src.nodata = 0 # set the nodata value
+        profile = src.profile
+        profile.update(
+                dtype=rasterio.uint8,
+                compress='lzw'
+        )
+
+        with rasterio.open(destination_raster_path, 'w',  **profile) as dst:
+            for i in range(1, src.count + 1):
+                band = src.read(i)
+                band = np.where(band<0,0,band) # for completeness
+                dst.write(band,i)
+
+    return destination_raster_path
+        
 
 
 
