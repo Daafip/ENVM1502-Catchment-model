@@ -24,3 +24,4 @@ GIS/srtm_hudson_basin.tif
 GIS/srtm_hudson_basin.tif.aux.xml
 *.tif
 *.xml
+*.tiff_transform
