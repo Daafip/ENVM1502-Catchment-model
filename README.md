@@ -13,7 +13,7 @@ Catchment model for the course ENVM1502
 | 1.3         | Vegetation          | Estimate rootzone storage              | Anne  | Yes    | Done, needs comments  |
 | 1.4         | snow                | Estimate snow storage & melt           | David | Yes    | Done, some commments  |  
 | 1.5         | Muskingum           | Flood routing                          | Anne  | Yes    | Done, some commments  |
-| 1.6         | Mositure recycle    | Local mositure                         | David |        |                       |
+| 1.6         | Mositure recycle    | Local mositure                         | David | Yes    | Done, commented       |
 | ----        | ----                |--------------------------------------- | ----  | ------ | --------------------- |
 | 2.1         | map reservoirs      | Use landsat to select surface water    | David |        |                       |
 | 2.2         | remote P measure    | ?                                      | Anne  |        |                       |
