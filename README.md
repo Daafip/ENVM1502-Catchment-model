@@ -8,11 +8,11 @@ Catchment model for the course ENVM1502
 | 0.0         | Q data              | From UGSG                              | David | Yes    | loaded in             |  
 | 0.0         | EP data             | from satelite product?                 | David | Yes    | era5 loaded in        | 
 | ----        | ----                |--------------------------------------- | ----  | ------ |---------------------- |
-| 1.1         | Budyko curve        | Plotting Ea/P vs EP/p &  desribing     | Anne  | Yes    | Done, needs comments |  
-| 1.2         | EVA                 | Creating MEV & GEV                     | David | Yes    | Done, needs comments |
-| 1.3         | Vegetation          | Estimate rootzone storage              | Anne  | Yes    | Done, needs comments |
-| 1.4         | snow                | Estimate snow storage & melt           | David | Yes    | Done, some commments |  
-| 1.5         | Muskingum           | Flood routing                          | Anne  |        |                       |
+| 1.1         | Budyko curve        | Plotting Ea/P vs EP/p &  desribing     | Anne  | Yes    | Done, needs comments  |  
+| 1.2         | EVA                 | Creating MEV & GEV                     | David | Yes    | Done, needs comments  |
+| 1.3         | Vegetation          | Estimate rootzone storage              | Anne  | Yes    | Done, needs comments  |
+| 1.4         | snow                | Estimate snow storage & melt           | David | Yes    | Done, some commments  |  
+| 1.5         | Muskingum           | Flood routing                          | Anne  | Yes    | Done, some commments  |
 | 1.6         | Mositure recycle    | Local mositure                         | David |        |                       |
 | ----        | ----                |--------------------------------------- | ----  | ------ | --------------------- |
 | 2.1         | map reservoirs      | Use landsat to select surface water    | David |        |                       |
@@ -22,6 +22,6 @@ Catchment model for the course ENVM1502
 | 2.5         | Evaporation         | extract evaporation from rs            | David | Yes    | not availible in area |
 | 2.6         | Data assimilation   | tweak data to close waterbalance       | Anne  |        |                       |
 | ----        | ---               - |--------------------------------------- | ----  | ------ | --------------------- |
-| 3.1         | Linear reservoir    | K & alpha values                       |       |        |                       |
-| 3.2         | lumped model        | Insert values into model               |       |        |                       |
+| 3.1         | Linear reservoir    | K & alpha values                       | Anne  | Yes    | Done, some commments  |
+| 3.2         | lumped model        | Insert values into model               | Anne  |        |                       |
 | 3.3         | callibration        | callibrate values in model             |       |        |                       |
