@@ -26,3 +26,11 @@ GIS/srtm_hudson_basin.tif.aux.xml
 *.xml
 *.tiff_transform
 GIS/classification_of_waterbodies_26918.tif_transform
+GIS/.ipynb_checkpoints/ascii husdon basin-checkpoint.txt
+GIS/.ipynb_checkpoints/ascii dem-checkpoint.txt
+GIS/.ipynb_checkpoints/ascii hand-checkpoint.txt
+GIS/.ipynb_checkpoints/ascii slope-checkpoint.txt
+GIS/ascii husdon basin.txt
+GIS/ascii slope.txt
+GIS/ascii dem.txt
+GIS/ascii hand.txt
