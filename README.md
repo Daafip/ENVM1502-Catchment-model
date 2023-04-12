@@ -20,7 +20,7 @@ Catchment model for the course ENVM1502
 | 1.6         | Mositure recycle    | Local mositure                         | David | Yes    | Done, commented         |
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
 | 2.1         | map reservoirs      | Use landsat to select surface water    | David | Yes    | Done, commented         |
-| 2.2         | remote P measure    | analyse P with satilites/microwave obs | Anne  | NA     | write up why not needed |
+| 2.2         | remote P measure    | analyse P with satilites/microwave obs | Anne  |        | write up why not needed |
 | 2.3         | moisture            | map soil moisture                      | David |        |                         |
 | 2.4         | DEMS & gravity      | Use dem & estimate S using grace       | Anne  |        |                         |
 | 2.5         | Evaporation         | extract evaporation from rs            | David | Yes    | not availible in area   |
@@ -30,3 +30,5 @@ Catchment model for the course ENVM1502
 | 3.2         | lumped model        | Insert values into model               | Anne  |        |                         |
 | 3.3         | callibration        | callibrate values in model             |       |        |                         |
 | 3.4         | distributed model   | Use landscape and divide into gridcells|       |        |                         |
+| ----        | ----                | ----                                   | ----  | ----   | ----                    |
+| 4.0         | overview nb         | Combine everything                     | David |        |                         |
