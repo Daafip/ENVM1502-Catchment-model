@@ -12,7 +12,7 @@
 
 ### Goal poster? 
 - Get people interested in your work
-- short version of your report: TL;DT
+- short version of your report: TL;DR
 - Use my results/software/product in your work
 - look at how smart/hire me
 - be my collaborator
