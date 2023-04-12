@@ -1,9 +1,11 @@
 # Modeling of the Hudson basin, New York, USA.
 Catchment model for the course ENVM1502
 
+
+##### to do: change this image 
 ![map_satelite_imaging](GIS/map_satelite_imaging.jpeg)
 
-
+##### Work overview:
 | Unit        | What                | To dos                                 | Who   | Done?  |  Result                 |
 | :----:      | ----                | ----                                   |:----: | :----: | ----                    |
 | 0.0         | P data (& T)        | Precip data, likely also temp          | Anne  | Yes    | loaded in               |  
