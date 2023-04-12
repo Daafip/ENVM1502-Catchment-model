@@ -1,5 +1,7 @@
-# ENVM1502-Catchment-model
+# Modeling of the Hudson basin, New York, USA.
 Catchment model for the course ENVM1502
+
+![map_satelite_imaging](GIS\map_satelite_imaging.jpeg)
 
 
 | Unit        | What                | To dos                                 | Who   | Done?  |  Result                 |
