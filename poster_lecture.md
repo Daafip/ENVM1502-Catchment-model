@@ -1,3 +1,4 @@
+#### our input
 | Good                   | still good               | bad |     
 | ----                   | ----                     |---- | 
 | Columns                | bulletpoints             | not clear intro-results-discussion | 
@@ -9,12 +10,14 @@
 | show background/method |                          |  | 
 
 
-Goal poster? 
+### Goal poster? 
 - Get people interested in your work
 - short version of your report: TL;DT
 - Use my results/software/product in your work
-- 
+- look at how smart/hire me
+- be my collaborator
 
 
+### sience communication
 Sender -> message -> medium -> audience 
 
