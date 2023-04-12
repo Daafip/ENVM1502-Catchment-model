@@ -21,7 +21,7 @@ Catchment model for the course ENVM1502
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
 | 2.1         | map reservoirs      | Use landsat to select surface water    | David | Yes    | Done, commented         |
 | 2.2         | remote P measure    | analyse P with satilites/microwave obs | Anne  |        | write up why not needed |
-| 2.3         | moisture            | map soil moisture                      | David |        |                         |
+| 2.3         | moisture            | map soil moisture                      | David | Yes    | Done, some comments     |
 | 2.4         | DEMS & gravity      | Use dem & estimate S using grace       | Anne  |        |                         |
 | 2.5         | Evaporation         | extract evaporation from rs            | David | Yes    | not availible in area   |
 | 2.6         | Data assimilation   | tweak data to close waterbalance       | Anne  |        |                         |
