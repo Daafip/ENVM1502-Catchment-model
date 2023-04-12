@@ -24,7 +24,7 @@ Catchment model for the course ENVM1502
 | 2.2         | remote P measure    | analyse P with satilites/microwave obs | Anne  |        | write up why not needed |
 | 2.3         | moisture            | map soil moisture                      | David | Yes    | Done, some comments     |
 | 2.4         | DEMS & gravity      | Use dem & estimate S using grace       | Anne  | Yes    | Done,needs some comments|
-| 2.5         | Evaporation         | extract evaporation from rs            | David | Yes    | not availible in area   |
+| 2.5         | Evaporation         | extract evaporation from rs            | David | Yes    | loaded from era 5, see 0.3|
 | 2.6&7       | Data assimilation   | tweak data to close waterbalance       | Anne  |        |                         |
 | 2.8         | Climate predictions | Look at monthly precipitation predict  | David | Yes    | Done, needs comments    |
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
