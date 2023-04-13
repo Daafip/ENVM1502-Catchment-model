@@ -30,7 +30,7 @@ Catchment model for the course ENVM1502
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
 | 3.1         | Linear reservoir    | K & alpha values                       | Anne  | Yes    | Done, some commments    |
 | 3.2         | lumped model        | Insert values into model               | Anne  |        |                         |
-| 3.3         | callibration        | callibrate values in model             |       |        |                         |
-| 3.4         | distributed model   | Use landscape and divide into gridcells|       |        |                         |
+| 3.3         | callibration        | callibrate values in model             | Anne  |        |                         |
+| 3.4         | distributed model   | Use landscape and divide into gridcells| Anne  |        |                         |
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
 | 4.0         | overview nb         | Combine everything                     | David |        |                         |
