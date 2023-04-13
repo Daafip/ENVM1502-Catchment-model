@@ -8,10 +8,11 @@ Catchment model for the course ENVM1502
 ##### Work overview:
 | Unit        | What                | To dos                                 | Who   | Done?  |  Result                 |
 | :----:      | ----                | ----                                   |:----: | :----: | ----                    |
-| 0.1         | P data (& T)        | Precip data, likely also temp          | Anne  | Yes    | loaded in               |  
+| 0.1         | P data (& T)        | Precip data, likely also temp          | Anne  | Yes    | loaded in               |
+| 0.1.3       | P data reweighing   | use theissen polygon rather than mean  | David | Yes    | completed, reruning with|  
 | 0.2         | Q data              | From UGSG                              | David | Yes    | loaded in               |  
 | 0.3         | EP data             | from satelite product?                 | David | Yes    | era5 loaded in          | 
-| 0.4         | P data reweighing   | use theissen polygon rather than mean  | David | Yes    | completed, reruning with| 
+| 0.4         | Combining all data  | take the mentioned data & load in      | David | Yes    | era5 loaded in          |  
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
 | 1.1         | Budyko curve        | Plotting Ea/P vs EP/p &  desribing     | Anne  | Yes    | Done, needs comments    |  
 | 1.2         | EVA                 | Creating MEV & GEV                     | David | Yes    | Done, needs comments    |
