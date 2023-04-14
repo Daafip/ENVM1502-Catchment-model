@@ -1,7 +1,9 @@
 # Modeling of the Hudson basin, New York, USA.
 Catchment model for the course ENVM1502
 
-
+##### reproducability
+The files [requirement_envm1502.txt](https://github.com/Daafip/ENVM1502-Catchment-model/blob/main/requirements_envm1502.txt) for pip or  [requirement_envm1502.yml](https://github.com/Daafip/ENVM1502-Catchment-model/blob/main/requirement_envm1502.yml) for conda contain all the info needed to install the correct packages.
+The [MEV](https://github.com/EnricoZorzetto/mevpy) package is the only one which needs to be downloaded seperately & moved to the correct install folder with other python packages. 
 ##### to do: change this image 
 ![map_satelite_imaging](GIS/map_satelite_imaging.jpeg)
 
