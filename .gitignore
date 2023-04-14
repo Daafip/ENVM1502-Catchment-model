@@ -1,6 +1,5 @@
 ﻿GIS/SRTM_hudon.tif
 *.tiff
-*.png
 Data/3286005.csv
 Data/.ipynb_checkpoints/3286005-checkpoint.csv
 GIS/flow_acc.prj
