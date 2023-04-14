@@ -24,10 +24,10 @@ Catchment model for the course ENVM1502
 | 2.1         | map reservoirs      | Use landsat to select surface water    | David | Yes    | Map showing 371km^2 of reservoirs |
 | 2.2         | remote P measure    | analyse P with satilites/microwave obs | Anne  | NA     | Not done due to enough data|
 | 2.3         | moisture            | map soil moisture                      | David | Yes    | Insitu, microwave,SMAP & CCDS loaded in|
-| 2.4         | DEMS & gravity      | Use dem & estimate S using grace       | Anne  | Yes    | Grace loaded in, also used in 2.6, decrease water storage|
+| 2.4         | DEMS & gravity      | Use dem & estimate S using grace       | Anne  | Yes    | Grace loaded in, also used in 2.6, decrease water storages|
 | 2.5         | Evaporation         | extract evaporation from rs            | David | Yes    | loaded from era 5, see 0.3|
 | 2.6 & 7     | Data assimilation   | tweak data to close waterbalance       | Both  | Yes    | Now use Gleam instead of era5 |
-| 2.8         | Climate predictions | Look at monthly precipitation predict  | David | Yes    | Done, needs comments    |
+| 2.8         | Climate predictions | Look at monthly precipitation predict  | David | Yes    | extreme precipitation will increase    |
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
 | 3.1         | Linear reservoir    | K & alpha values                       | Anne  | Yes    | Done, some commments    |
 | 3.2         | lumped model        | Insert values into model               | Anne  |        |                         |
