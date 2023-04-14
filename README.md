@@ -13,7 +13,7 @@ Catchment model for the course ENVM1502
 | 0.2         | Q data              | From UGSG                              | David | Yes    | loaded in               |  
 | 0.3         | EP data             | from satelite product?                 | David | Yes    | GLEAM used in the end   | 
 | 0.4         | Combining all data  | take the mentioned data & load in      | David | Yes    | one dataframe made      |  
-| ----        | ----                | ----                                   | ----  | ----   | ----                    |
+| ----        | ----                | ----                                   | ----  | ----   | ----                      |
 | 1.1         | Budyko curve        | Plotting Ea/P vs EP/p &  desribing     | Anne  | Yes    | Plots nicely on the curve|  
 | 1.2         | EVA                 | Creating MEV & GEV                     | David | Yes    | clear line obtained      |
 | 1.3         | Vegetation          | Estimate rootzone storage              | Anne  | Yes    | estimated 73.86mm       |
@@ -29,9 +29,9 @@ Catchment model for the course ENVM1502
 | 2.6 & 7     | Data assimilation   | tweak data to close waterbalance       | Both  | Yes    | Now use Gleam instead of era5 |
 | 2.8         | Climate predictions | Look at monthly precipitation predict  | David | Yes    | extreme precipitation will increase    |
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
-| 3.1         | Linear reservoir    | K & alpha values                       | Anne  | Yes    | Done, some commments    |
-| 3.2         | lumped model        | Insert values into model               | Anne  |        |                         |
-| 3.3         | callibration        | callibrate values in model             | Anne  |        |                         |
-| 3.4         | distributed model   | Use landscape and divide into gridcells| Anne  |        |                         |
+| 3.1         | Linear reservoir    | K & alpha values                       | Anne  | Yes    | too simple, but shows good    |
+| 3.2         | lumped model        | Insert values into model               | Anne  | Yes '  | shows promising results, gets timing right, mainly summer overshoots |
+| 3.3         | callibration        | callibrate values in model             | Anne  | Yes    | see above                        |
+| 3.4         | distributed model   | Use landscape and divide into gridcells| Anne  | Yes    | underestimates snow                        |
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
-| 4.0         | overview nb         | Combine everything                     | David |        |                         |
+| 4.0         | overview nb         | Combine everything                     | David | Yes    |  all combined & run                       |
