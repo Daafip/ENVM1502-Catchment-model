@@ -18,13 +18,13 @@ Catchment model for the course ENVM1502
 | 1.2         | EVA                 | Creating MEV & GEV                     | David | Yes    | clear line obtained      |
 | 1.3         | Vegetation          | Estimate rootzone storage              | Anne  | Yes    | estimated 73.86mm       |
 | 1.4         | snow                | Estimate snow storage & melt           | David | Yes    | modeled nicely on 4 plateaus |  
-| 1.5         | Muskingum           | Flood routing                          | Anne  | Yes    | Done, some commments    |
-| 1.6         | Mositure recycle    | Local mositure                         | David | Yes    | Done, commented         |
+| 1.5         | Muskingum           | Flood routing                          | Anne  | Yes    | Completed, takes long, little use   |
+| 1.6         | Mositure recycle    | Local mositure                         | David | Yes    | Most moisture from sea, little recycling |
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
-| 2.1         | map reservoirs      | Use landsat to select surface water    | David | Yes    | Done, commented         |
-| 2.2         | remote P measure    | analyse P with satilites/microwave obs | Anne  | NA     | write up why not needed |
-| 2.3         | moisture            | map soil moisture                      | David | Yes    | Done, some comments     |
-| 2.4         | DEMS & gravity      | Use dem & estimate S using grace       | Anne  | Yes    | Done,needs some comments|
+| 2.1         | map reservoirs      | Use landsat to select surface water    | David | Yes    | Map showing 371km^2 of reservoirs |
+| 2.2         | remote P measure    | analyse P with satilites/microwave obs | Anne  | NA     | Not done due to enough data|
+| 2.3         | moisture            | map soil moisture                      | David | Yes    | Insitu, microwave,SMAP & CCDS loaded in|
+| 2.4         | DEMS & gravity      | Use dem & estimate S using grace       | Anne  | Yes    | Grace loaded in, also used in 2.6, decrease water storage|
 | 2.5         | Evaporation         | extract evaporation from rs            | David | Yes    | loaded from era 5, see 0.3|
 | 2.6 & 7     | Data assimilation   | tweak data to close waterbalance       | Both  | Yes    | Now use Gleam instead of era5 |
 | 2.8         | Climate predictions | Look at monthly precipitation predict  | David | Yes    | Done, needs comments    |
