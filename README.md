@@ -8,16 +8,16 @@ Catchment model for the course ENVM1502
 ##### Work overview:
 | Unit        | What                | To dos                                 | Who   | Done?  |  Result                 |
 | :----:      | ----                | ----                                   |:----: | :----: | ----                    |
-| 0.1         | P data (& T)        | Precip data, likely also temp          | Anne  | Yes    | loaded in               |
-| 0.1.3       | P data reweighing   | use theissen polygon rather than mean  | David | Yes    | completed, reruning with|  
+| 0.1         | P data (& T)        | Precip data, likely also temp          | Anne  | Yes    | loaded in from NOAA     |
+| 0.1.3       | P data reweighing   | use theissen polygon rather than mean  | David | Yes    | completed,more promising|  
 | 0.2         | Q data              | From UGSG                              | David | Yes    | loaded in               |  
-| 0.3         | EP data             | from satelite product?                 | David | Yes    | era5 loaded in          | 
-| 0.4         | Combining all data  | take the mentioned data & load in      | David | Yes    | era5 loaded in          |  
+| 0.3         | EP data             | from satelite product?                 | David | Yes    | GLEAM used in the end   | 
+| 0.4         | Combining all data  | take the mentioned data & load in      | David | Yes    | one dataframe made      |  
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
-| 1.1         | Budyko curve        | Plotting Ea/P vs EP/p &  desribing     | Anne  | Yes    | Done, needs comments    |  
-| 1.2         | EVA                 | Creating MEV & GEV                     | David | Yes    | Done, needs comments    |
-| 1.3         | Vegetation          | Estimate rootzone storage              | Anne  | Yes    | Done, needs comments    |
-| 1.4         | snow                | Estimate snow storage & melt           | David | Yes    | Done, some commments    |  
+| 1.1         | Budyko curve        | Plotting Ea/P vs EP/p &  desribing     | Anne  | Yes    | Plots nicely on the curve|  
+| 1.2         | EVA                 | Creating MEV & GEV                     | David | Yes    | clear line obtained      |
+| 1.3         | Vegetation          | Estimate rootzone storage              | Anne  | Yes    | estimated 73.86mm       |
+| 1.4         | snow                | Estimate snow storage & melt           | David | Yes    | modeled nicely on 4 plateaus |  
 | 1.5         | Muskingum           | Flood routing                          | Anne  | Yes    | Done, some commments    |
 | 1.6         | Mositure recycle    | Local mositure                         | David | Yes    | Done, commented         |
 | ----        | ----                | ----                                   | ----  | ----   | ----                    |
