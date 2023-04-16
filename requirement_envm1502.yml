@@ -1,6 +1,5 @@
-name: ship
+name: envm1502
 channels:
-  - http://conda.anaconda.org/gurobi
   - conda-forge
   - defaults
 dependencies:
@@ -382,4 +381,4 @@ dependencies:
     - websockets==10.4
     - werkzeug==1.0.1
     - windows-curses==2.3.1
-prefix: C:\Users\david\anaconda3\envs\ship
+prefix: D:\Anaconda\envs\envm1502

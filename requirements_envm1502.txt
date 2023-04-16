@@ -1,4 +1,4 @@
-# packages in environment at C:\Users\david\anaconda3\envs\ship:
+# packages in environment at D:\Anaconda\envs\envm1502:
 #
 # Name                    Version                   Build  Channel
 affine                    2.3.1              pyhd8ed1ab_0    conda-forge
