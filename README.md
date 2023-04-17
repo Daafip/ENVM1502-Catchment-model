@@ -1,6 +1,9 @@
 # Modeling of the Hudson basin, New York, USA.
 Catchment model for the course ENVM1502.
 
+## Summary notebook:
+All code is summarised in one notebook: [`4.0.SummaryNotebook.ipynb`](https://github.com/Daafip/ENVM1502-Catchment-model/blob/main/Python%20files/4.0.SummaryNotebook.ipynb) found in python files. It can also be viewed [here](https://nbviewer.org/github/Daafip/ENVM1502-Catchment-model/blob/main/Python%20files/4.0.SummaryNotebook.ipynb) more reliably. Alternatively they can be viewed as pdf via [html](https://github.com/Daafip/ENVM1502-Catchment-model/blob/main/SummaryNotebook_Group18_DavidHaasnoot_AnneVersleijen-via-html.pdf) or [latex](https://github.com/Daafip/ENVM1502-Catchment-model/blob/main/SummaryNotebook_Group18_DavidHaasnoot_AnneVersleijen-via-html.pdf) in the repository. 
+
 ##### reproducability
 The files [requirement_envm1502.txt](https://github.com/Daafip/ENVM1502-Catchment-model/blob/main/requirements_envm1502.txt) for pip or  [requirement_envm1502.yml](https://github.com/Daafip/ENVM1502-Catchment-model/blob/main/requirement_envm1502.yml) for conda contain all the packagenames needed to run the jupyter notebooks provided. 
 
