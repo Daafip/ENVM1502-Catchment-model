@@ -34,3 +34,23 @@ GIS/ascii slope.txt
 GIS/ascii dem.txt
 GIS/ascii hand.txt
 GIS/northern_srtm.sdat
+Data/MC2_before_1980_1983.txt
+Data/MC2_before_1980_1983_df.txt
+Data/MC2_before_1980_1983_df_NSEnorm.txt
+Data/MC2_before_1980_1983_NSEnorm.txt
+Data/MC2_before_1988_1991.txt
+Data/MC2_before_1988_1991_df.txt
+Data/MC2_before_2004_2007_NSEnorm.txt
+Data/MC2_before_2004_2007_df_NSEnorm.txt
+Data/MC2_before_1988_1991_df_NSEnorm.txt
+Data/MC2_before_1988_1991_NSEnorm.txt
+Data/MC2_before_1996_1999_df.txt
+Data/MC2_before_1996_1999.txt
+Data/MC2_before_1996_1999_NSEnorm.txt
+Data/MC2_before_1996_1999_df_NSEnorm.txt
+Data/MC2_before_2004_2007_df.txt
+Data/MC2_before_2012_2015.txt
+Data/MC2_before_2012_2015_df.txt
+Data/MC2_before_2004_2007.txt
+Data/MC2_before_2012_2015_NSEnorm.txt
+Data/MC2_before_2012_2015_df_NSEnorm.txt
