@@ -1,12 +1,13 @@
 # Modeling of the Hudson basin, New York, USA.
-Catchment model for the course ENVM1502
+Catchment model for the course ENVM1502.
 
 ##### reproducability
 The files [requirement_envm1502.txt](https://github.com/Daafip/ENVM1502-Catchment-model/blob/main/requirements_envm1502.txt) for pip or  [requirement_envm1502.yml](https://github.com/Daafip/ENVM1502-Catchment-model/blob/main/requirement_envm1502.yml) for conda contain all the packagenames needed to run the jupyter notebooks provided. 
 
 Simply run `conda env create -f requirement_envm1502.yml` in the anaconda promt with the `.yml` located correctly (recommended), or use  `pip install -r requirements_envm1502.txt`. 
 The [MEV](https://github.com/EnricoZorzetto/mevpy) package is the only one which needs to be downloaded seperately & moved to the correct install folder with other python packages. 
-##### to do: change this image 
+
+### area: The basin is 20 000km^2 in northern part of the hudson basin.
 ![map_hudson_stations](GIS/map_hudson_stations.jpeg)
 
 ##### Work overview:
