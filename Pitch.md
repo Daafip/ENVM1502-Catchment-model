@@ -15,4 +15,6 @@ The distributed model underestimated the peaks, and with 21 parameters couldn't 
 ## conclusion (Anne)
 The Earlier models achieved higher NSE values whilst the later years were less better fits. 
 One of the main issues are the high amount of reservoirs in the area, which flattens out peak flows in the summer, which the model fails to replicate. Adding a parameter which modifies the fast reservoir in summer could help to improve this. 
-More parameters however also adds uncertainty, thus multi-objective calibration should be needed. 
+More parameters however also adds uncertainty, thus multi-objective calibration should be needed.
+
+Next to this, the NSE tries to fit the peaks more than the baseflow. We also looked at the log nse, when doing this, the baseflow / low flow and timing better modelled. 
