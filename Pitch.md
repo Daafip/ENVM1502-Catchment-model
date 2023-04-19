@@ -9,7 +9,8 @@ We chose this region as it has a snow, reservoirs as interesting processes and a
 We used the data assimilation technique to verify which evaporation technique to use. This lead us to use the GLEAM data set which plotted nicely on the budyko curve, in contrast to ERA 5 which underestimated the evaporation in the region. For precipitation we used station data, which was very close to ERA5. For discharge we used station data.
 
 ## HBV vs distributed (Anne)
-We then modeled the region with a HBV model and a distributed model. The distributed model underestimated the peaks, and with 21 parameters couldn't fit well to the data. We modeled the region in sets of 8 years. 4 years of callibration followed by 4 years of testing the model to the data. This was repeated 5 times between 1980 and 2020. 
+We then modeled the region with a HBV model and a distributed model. To do so, we added the snow bucket to the model, because the area has snowfall in winter. 
+The distributed model underestimated the peaks, and with 21 parameters couldn't fit well to the data. We modeled the region in sets of 8 years. 4 years of callibration followed by 4 years of testing the model to the data. This was repeated 5 times between 1980 and 2020. The first one and half year of the calibration is used as spinoff and not taken into account when calculating the NSE.
 
 ## conclusion (Anne)
 The Earlier models achieved higher NSE values whilst the later years were less better fits. 
